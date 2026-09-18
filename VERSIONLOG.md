@@ -1,5 +1,8 @@
 # Flowcell Parser Version Log
 
+## 20260918.1
+Update Illumina runfolder regex
+
 ## 20251104.1
 Remove unused db module 
 
